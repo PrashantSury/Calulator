@@ -1,0 +1,32 @@
+body {
+  margin: 36px auto 0 auto;
+  width: 350px;
+  border-radius: 2px;
+}
+
+div {
+  border-radius: 5px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.986);
+  padding: 15px;
+  margin-bottom: 10px;
+  width: 216px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 150px;
+  height: 15px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgba(219, 119, 104, 0.137);
+}
+button {
+  background-color: rgba(243, 136, 65, 0.733);
+  border: 2px solid rgb(100, 102, 98);
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
+  width: 70px;
+  height: 40px;
+}
